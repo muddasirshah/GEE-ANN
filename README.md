@@ -13,3 +13,7 @@ File 2 contain the Python File for the model
 
 
 **Please Note :This model is an artificial neural network model. There are some more advanced models like convulutional NN models. **
+
+
+Watch the webinar here:
+https://www.youtube.com/watch?v=tCrM3Lm-AM4
