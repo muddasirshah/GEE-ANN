@@ -3,7 +3,7 @@
 
 
 Classification of Satellite Images Using Google Earth Engine JS API and TensorFlow
-In this GitHub Repository You will find scripts for deep learning using ANN with Google Earth Engine and TensorFlow
+In this GitHub Repository You will find scripts for deep learning using Artificial Neural - (ANN) with Google Earth Engine and TensorFlow
 First for Data Filtering and exporting We will use the GEE JS API. The data will be in the form on TensoFlow Records.
 Second We will exports these TF record files for imagery and model training points to Google Cloud Bucket
 **** Google Cloud Will Have Additional Costs Associated for Storage"**
