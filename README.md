@@ -11,9 +11,15 @@ There are two script files
 File 1 contain GEE JS API (Javascript Code for Data Preparation and Exporting)
 File 2 contain the Python File for the model
 
+Watch the Tutorial here:
+https://www.youtube.com/watch?v=U-CwLFVtq9A
 
-**Please Note :This model is an artificial neural network model. There are some more advanced models like convulutional NN models. **
 
+Special Thanks to:
+Dr. Ujaval Gandhi (Founder Spatial Thoughts)
+https://spatialthoughts.com
 
-Watch the webinar here:
-https://www.youtube.com/watch?v=tCrM3Lm-AM4
+Dr. Hammad Gilani (IWMI, Pakistan)
+
+Contact Me:
+muddasirshah@outlook.com
